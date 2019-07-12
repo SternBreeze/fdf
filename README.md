@@ -7,4 +7,6 @@ usage: ./fdf map_name
 
 Examples:  
 
-![Alt text](images/image1.png?raw=true "First example")
+![Alt text](images/image1.png?raw=true "First example") 
+
+![Alt text](images/image2.png?raw=true "Second example")
